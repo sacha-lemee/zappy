@@ -62,6 +62,10 @@ See the complete repository architecture here : [ZAPPY Project structure](docs/P
 - [General documentation](docs/DOCUMENTATION.md)
 - [Server](docs/SERVER_DOCUMENTATION.md) · [GUI](docs/GUI_DOCUMENTATION.md) · [AI](docs/AI_DOCUMENTATION.md)
 
+## Epitech warning
+
+This project was built for the Epitech curriculum. **Epitech students: do not copy this code for your own project.** Copying is forbidden at Epitech and is treated as cheating. Read it to learn if you want, but write your own.
+
 ## Contributing
 
 Contributions are welcome: read [CONTRIBUTING.md](CONTRIBUTING.md) and the [code of conduct](CODE_OF_CONDUCT.md).
