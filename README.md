@@ -62,8 +62,12 @@ See the complete repository architecture here : [ZAPPY Project structure](docs/P
 - [General documentation](docs/DOCUMENTATION.md)
 - [Server](docs/SERVER_DOCUMENTATION.md) · [GUI](docs/GUI_DOCUMENTATION.md) · [AI](docs/AI_DOCUMENTATION.md)
 
+## Contributing
+
+Contributions are welcome: read [CONTRIBUTING.md](CONTRIBUTING.md) and the [code of conduct](CODE_OF_CONDUCT.md).
+
 ## License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **MIT License**, see [LICENSE](LICENSE).
 
 ![ZAPPY License : MIT](https://img.shields.io/badge/License-MIT-blue.svg)
