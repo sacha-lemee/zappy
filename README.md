@@ -30,7 +30,7 @@ This project requires:
 1. **Clone the repository:**
 
 ```sh
-git clone git@github.com:sachalemee/zappy.git
+git clone git@github.com:sacha-lemee/zappy.git
 cd zappy
 ```
 
